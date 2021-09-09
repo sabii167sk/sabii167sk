@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabii167sk
+- 👋 Hi, I’m @sabina.kureshi
 - 👀 I’m interested in exploring and learning new technologies.
 - 🌱 I’m currently learning BOT working.
 - 💞️ I’m looking to collaborate on software updates and codes.
